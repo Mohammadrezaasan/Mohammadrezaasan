@@ -6,10 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadrezaasan&show_icons=true&theme=dark&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaasan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Ways to contact me 
-<img src="https://user-images.githubusercontent.com/108104864/188506460-3d980cc4-f25c-4f1b-b918-cd6f070689c8.gif" width="500" height="350"/><a href="https://t.me/Mohammad_Reza_Asan"><img src="https://user-images.githubusercontent.com/108104864/188505888-1092730a-98a9-4aa5-87af-7746dc9f4839.gif" width="250" height="350"/></a><img src="https://user-images.githubusercontent.com/108104864/188507138-425174e2-db3e-4856-a4ee-aa77d113abe5.gif" width="250" height="350"/></a>
-
-#### <p align ="right">mohammadrezaasan7@gmail.com
 
 
 
