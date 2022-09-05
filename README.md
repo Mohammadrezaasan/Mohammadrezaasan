@@ -1,7 +1,4 @@
-
-![0B78142E-7814-40AF-9477-4CEE1BF60DD6](https://user-images.githubusercontent.com/108104864/188500280-e890cc20-e9c1-49bf-be06-b769a0c8ee97.jpeg)
-
-
+![D104DF57-1168-4C2A-A36B-E1086E7E3F6C](https://user-images.githubusercontent.com/108104864/188502572-126bb1f3-1f03-4c0a-81e4-13e793bad12d.jpeg)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadrezaasan)
