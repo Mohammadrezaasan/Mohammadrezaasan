@@ -19,6 +19,7 @@
 
 * ## 🗃 Projects 🗃
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=market-alert-bot)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=Calories-info-bot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=market-alert-bot)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=Calories-info-bot)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=Weather-Info-Bot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
