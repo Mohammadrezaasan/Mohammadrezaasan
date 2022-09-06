@@ -4,7 +4,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadrezaasan&show_icons=true&theme=dark&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaasan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaasan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<a href="https://t.me/Mohammad_Reza_Asan"><img src="https://user-images.githubusercontent.com/108104864/188545365-69a6b90e-edf3-4b99-95f6-c98f398bc928.gif" width="125"  height="150"/></a><a href="mailto:mohammadrezaasan7@gmail.com">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=market-alert-bot)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mohammadrezaasan&show_icons=true&theme=dark&repo=Calories-info-bot)](https://github.com/anuraghazra/github-readme-stats)
 
