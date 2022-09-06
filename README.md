@@ -5,9 +5,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezaasan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<a href="https://t.me/Mohammad_Reza_Asan">
 
 * ## 🛠 Languages and Tools 🛠
-|Python|MySQL|Visual Studio Code|
-|:------:|--------|-----|
-|<img src="https://user-images.githubusercontent.com/108104864/188583510-42c5f499-5562-45ef-a63a-709388c46437.gif" width="100"  height="100"/>|<img src="https://user-images.githubusercontent.com/108104864/188584081-1a109e66-4393-4014-bc94-f8475f0c9552.png" width="100"  height="100"/>|<img src="https://user-images.githubusercontent.com/108104864/188583526-a1714fd5-941d-4513-a3c6-12e6e82cab52.gif" width="100"  height="100"/>|
+|Python|MySQL|Visual Studio Code|GitHub|
+|:------:|--------|-----|-------|
+|<img src="https://user-images.githubusercontent.com/108104864/188583510-42c5f499-5562-45ef-a63a-709388c46437.gif" width="100"  height="100"/>|<img src="https://user-images.githubusercontent.com/108104864/188584081-1a109e66-4393-4014-bc94-f8475f0c9552.png" width="100"  height="100"/>|<img src="https://user-images.githubusercontent.com/108104864/188583526-a1714fd5-941d-4513-a3c6-12e6e82cab52.gif" width="100"  height="100"/>|<img src="https://user-images.githubusercontent.com/108104864/188599895-74b0edd4-f3a9-4383-bea1-4242579eb6b3.png" width="100"  height="100"/>|
+
 
 
 * ## ☎️ Ways to contact me ☎️ 
